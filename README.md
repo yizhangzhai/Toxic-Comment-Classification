@@ -1,6 +1,8 @@
 # Toxic-Comment-Classification
 NLP and Deep Learning on Wiki Comments
 
+https://images.unsplash.com/photo-1499781350541-7783f6c6a0c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1415&q=80
+
 
 This project aims to improve online conversation in an intelligent way, by detecting different types of toxicity (threats, obscenity, insults and hate) from a dataset of comments from Wikipedia’s talk page edits.
 
